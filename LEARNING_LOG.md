@@ -12,3 +12,4 @@ I will continue improving my technical communication skills by explaining DevOps
 ## Entry 2 — Terraform Go / No-Go Reflection
 
 Reading the Terraform plan felt like solving a puzzle rather than doing homework. I enjoyed understanding what Terraform was going to create, change, or destroy, and how the configuration translated into infrastructure changes. This made me curious to learn more about Terraform and infrastructure automation. I'm ready to continue with the DevOps learning plan.
+  neww
